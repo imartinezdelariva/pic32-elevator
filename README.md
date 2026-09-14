@@ -132,6 +132,10 @@ The accepted commands are:
 
 This project was developed for a Microprocessors Laboratory course. It combines low-level peripheral configuration with the control logic required to operate a physical elevator prototype.
 
+## My Contribution
+
+This project was developed collaboratively by a two-person team, with implementation work shared broadly across the system.
+
 ## Author
 
 **Miguel Naranjo Ruiz-Socolado**
